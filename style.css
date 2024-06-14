@@ -1,0 +1,29 @@
+.cal {
+  width: 300px;
+  height: 400px;
+  background: rgb(48, 48, 49);
+  margin-left: 350px;
+  border: 1px;
+  border-radius: 10%;
+}
+#scrn {
+  width: 80%;
+  height: 50px;
+  background: rgb(94, 112, 94);
+  pointer-events: none;
+  margin-top: 45px;
+  margin-left: 36px;
+  border: 1px;
+  border-radius: 5%;
+  filter: blur(0.1px);
+}
+.btn {
+  margin-left: 35px;
+  margin-top: 20px;
+  height: 30px;
+  width: 30px;
+  font-size: 25px;
+  border: 1px;
+  border-radius: 15%;
+  font-family: "Times New Roman", Times, serif;
+}
